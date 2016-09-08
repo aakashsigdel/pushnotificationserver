@@ -1,0 +1,1 @@
+create a database named pushDb in mongo db and provide the connection string in app.js
